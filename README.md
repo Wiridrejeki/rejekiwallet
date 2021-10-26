@@ -1,0 +1,2 @@
+# rejekiwallet
+Termux mining
